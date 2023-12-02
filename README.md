@@ -1,1 +1,1 @@
-# Fullstack Chat project
+# Fullstack Chat Application
